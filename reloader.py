@@ -7,6 +7,7 @@ URL = 'http://historyofthegif.com'
 
 options = Options()
 options.add_argument("--kiosk")
+options.add_argument("--app=" + URL)
 options.add_argument("disable-infobars")
 
 while(True):
