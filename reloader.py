@@ -5,8 +5,6 @@ import sys
 
 RELOAD_INTERVAL = 5 * 60
 
-if 
-
 url = sys.argv[1]
 
 options = Options()
